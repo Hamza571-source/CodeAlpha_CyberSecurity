@@ -6,6 +6,8 @@
 This repository contains two completed tasks for the CodeAlpha Cyber Security Internship:
 
 **Basic Network Sniffe**r **–** A Python tool to capture and analyze network traffic in real-time.
+
+
 **Phishing Awareness Training**** –** Educational presentation on identifying and avoiding phishing attacks.
 
 
