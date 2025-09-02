@@ -3,11 +3,10 @@
 
 
 
-Python network sniffer using scapy to capture and analyze packets.
 This repository contains two completed tasks for the CodeAlpha Cyber Security Internship:
 
-Basic Network Sniffer – A Python tool to capture and analyze network traffic in real-time.
-Phishing Awareness Training – Educational presentation on identifying and avoiding phishing attacks.
+**Basic Network Sniffe**r **–** A Python tool to capture and analyze network traffic in real-time.
+**Phishing Awareness Training**** –** Educational presentation on identifying and avoiding phishing attacks.
 
 
 **🔍 Task 1: Basic Network Sniffer**
@@ -53,7 +52,7 @@ What You'll Learn
 📝 Knowledge assessment and practical tips
 
 
-Files
+**Files**
 
 Phishing_Awareness_Training.pptx - Complete presentation slides
 
