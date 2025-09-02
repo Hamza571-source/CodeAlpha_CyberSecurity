@@ -8,7 +8,7 @@ This repository contains two completed tasks for the CodeAlpha Cyber Security In
 **Basic Network Sniffe**r **–** A Python tool to capture and analyze network traffic in real-time.
 
 
-**Phishing Awareness Training**** –** Educational presentation on identifying and avoiding phishing attacks.
+**Phishing Awareness Training** **-** Educational presentation on identifying and avoiding phishing attacks.
 
 
 **🔍 Task 1: Basic Network Sniffer**
